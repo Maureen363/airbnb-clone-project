@@ -31,6 +31,43 @@ This project is a **full-stack clone** of the popular accommodation platform **A
 
 ---
 
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+
+- Create an intuitive and frictionless booking flow.
+- Maintain visual consistency and design language.
+- Ensure fast loading times and smooth transitions.
+- Prioritize mobile-first and responsive layout principles.
+
+---
+
+### 🔑 Key Features
+
+- 🔍 Property search with filtering
+- 🏘 View property listings in a grid layout
+- 📝 Detailed property page with full booking info
+- 🔐 User login and authentication
+- 💳 Secure checkout and booking confirmation
+
+---
+
+### 📄 Primary Pages
+
+| Page Name             | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Property Listing**  | Grid display of properties with filters like location, price, and rating    |
+| **Listing Details**   | Full details of a selected property including images, host info, and form   |
+| **Simple Checkout**   | Streamlined payment and booking confirmation page                           |
+
+---
+
+### 💡 Importance of User-Friendly Design
+
+A smooth, user-centric design is critical for booking platforms. Good UX increases conversion rates by minimizing friction, building user trust, and making the interface intuitive. Responsive design ensures a consistent experience across devices, while accessible layouts include everyone regardless of ability.
+
+---
+
 ## ✅ Project Initialization Checklist
 
 - [x] Public GitHub repo created: `airbnb-clone-project`

@@ -110,6 +110,31 @@ A smooth, user-centric design is critical for booking platforms. Good UX increas
 
 ---
 
+## 🧱 UI Component Patterns
+
+The following components will be built as **modular and reusable** UI elements:
+
+### 🔼 Navbar
+- Logo
+- Search bar
+- User profile & nav options
+- Mobile responsive menu
+
+### 🏘 Property Card
+- Property image
+- Location, price, rating
+- Favorite/like button
+- Grid layout responsiveness
+
+### 📥 Footer
+- Site navigation links
+- Social media icons
+- Company & copyright
+
+> Each component will follow consistent styling and be responsive across all devices.
+
+---
+
 ## ✅ Project Initialization Checklist
 
 - [x] Public GitHub repo created: `airbnb-clone-project`

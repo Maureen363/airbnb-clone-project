@@ -42,6 +42,33 @@ This project is a **full-stack clone** of the popular accommodation platform **A
 
 ---
 
+### 🎨 Figma Design Specifications
+
+**Color Styles:**
+
+- 🎨 Primary: `#FF5A5F`
+- 🎨 Secondary: `#008489`
+- 🎨 Background: `#FFFFFF`
+- 🎨 Text: `#222222`
+- 🎨 Secondary Text: `#717171`
+
+**Typography:**
+
+- **Primary Font:** Circular
+- **Headings:** Circular Bold (700), 24px–32px
+- **Body Text:** Circular Medium (500), 16px
+- **Secondary Text:** Circular Book (400), 14px
+
+**🧠 Why Design Properties Matter**
+
+Identifying colors, typography, and layout in Figma helps ensure:
+- Visual consistency across the app
+- Accessible and clean interfaces
+- Accurate implementation by frontend developers
+- Efficient collaboration between designers and coders
+
+---
+
 ### 🔑 Key Features
 
 - 🔍 Property search with filtering

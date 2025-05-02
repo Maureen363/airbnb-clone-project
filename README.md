@@ -95,6 +95,21 @@ A smooth, user-centric design is critical for booking platforms. Good UX increas
 
 ---
 
+## 👥 Project Roles and Responsibilities
+
+| Role                | Responsibilities                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| **Project Manager** | Coordinates tasks, tracks progress, and ensures deliverables are met             |
+| **Frontend Devs**   | Builds responsive UI components and integrates with backend                      |
+| **Backend Devs**    | Develops API endpoints, handles business logic, and manages the database         |
+| **Designers**       | Designs mockups, defines visual standards, and enhances user experience          |
+| **QA/Testers**      | Writes and runs tests, logs bugs, and verifies bug fixes                         |
+| **DevOps Engineers**| Manages deployment pipelines, Docker containers, and cloud infrastructure        |
+| **Product Owner**   | Defines goals, writes user stories, and ensures product vision is followed       |
+| **Scrum Master**    | Facilitates standups, sprints, retrospectives, and removes team blockers         |
+
+---
+
 ## ✅ Project Initialization Checklist
 
 - [x] Public GitHub repo created: `airbnb-clone-project`
